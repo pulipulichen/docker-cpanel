@@ -1,0 +1,1 @@
+FROM mirhosting/centos7-cpanel:latest
